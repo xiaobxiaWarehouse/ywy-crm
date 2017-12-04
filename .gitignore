@@ -1,0 +1,16 @@
+## idea 文件
+*.iml
+.idea/
+
+.DS_Store
+
+.classpath
+
+.editorconfig
+
+.settings/
+
+.project
+
+## 打包后临时文件
+target/
